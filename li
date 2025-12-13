@@ -1,0 +1,84 @@
+                     Licence Apache
+             Version 2.0, janvier 2004
+
+TERMES ET CONDITIONS D’UTILISATION, DE REPRODUCTION ET DE DISTRIBUTION
+
+1. Définitions.
+
+« Licence » désigne les termes et conditions d’utilisation, de reproduction et de distribution définis dans les Sections 1 à 10 du présent document.
+
+« Concédant » désigne le titulaire du droit d’auteur ou l’entité autorisée par lui à accorder la Licence.
+
+« Entité légale » désigne l’union de l’entité agissante et de toutes les autres entités qui contrôlent, sont contrôlées par, ou sous contrôle commun avec cette entité. Aux fins de cette définition, « contrôle » signifie (i) le pouvoir direct ou indirect d’orienter la gestion ou les décisions de cette entité, que ce soit par contrat ou autrement, ou (ii) la propriété de cinquante pour cent (50 %) ou plus des actions, ou (iii) la propriété effective de cette entité.
+
+« Vous » (ou « Votre ») désigne une personne physique ou une Entité légale exerçant les permissions accordées par cette Licence.
+
+« Forme Source » désigne la forme préférée pour apporter des modifications, y compris notamment le code source logiciel, la documentation source et les fichiers de configuration.
+
+« Forme Objet » désigne toute forme résultant d’une transformation mécanique ou d’une traduction de la Forme Source, y compris notamment le code objet compilé, la documentation générée et les conversions vers d’autres types de médias.
+
+« Œuvre » désigne l’œuvre protégée par le droit d’auteur, sous forme Source ou Objet, mise à disposition en vertu de la Licence, comme indiqué par un avis de droit d’auteur inclus ou joint à l’œuvre (un exemple est fourni dans l’Annexe ci-dessous).
+
+« Œuvres Dérivées » désigne toute œuvre, en Source ou Objet, basée sur l’Œuvre ou en dérivant, et dont les révisions éditoriales, annotations, ajouts ou autres modifications représentent, dans leur ensemble, une œuvre originale. Aux fins de cette Licence, les Œuvres Dérivées n’incluent pas les œuvres qui restent séparables de l’Œuvre, ou qui ne font que s’y lier (ou s’y rattacher nominalement) via ses interfaces.
+
+« Contribution » désigne toute œuvre de création, y compris la version originale de l’Œuvre et toute modification ou ajout à celle-ci ou à ses Œuvres Dérivées, soumise intentionnellement au Concédant pour inclusion dans l’Œuvre par le titulaire du droit d’auteur ou par une personne physique ou Entité légale autorisée à soumettre au nom du titulaire. « Soumis » signifie toute forme de communication électronique, verbale ou écrite envoyée au Concédant ou à ses représentants, y compris notamment les communications sur des listes de diffusion, systèmes de contrôle de version et systèmes de suivi d’incidents gérés par ou pour le Concédant dans le but de discuter et d’améliorer l’Œuvre, mais excluant les communications clairement marquées ou déclarées par écrit comme « Non une Contribution ».
+
+« Contributeur » désigne le Concédant et toute personne physique ou Entité légale dont une Contribution a été reçue par le Concédant et intégrée ensuite dans l’Œuvre.
+
+
+2. Concession de licence de droit d’auteur.
+Sous réserve des termes et conditions de cette Licence, chaque Contributeur vous accorde une licence perpétuelle, mondiale, non exclusive, gratuite, libre de redevance et irrévocable de droit d’auteur pour reproduire, préparer des Œuvres Dérivées, afficher publiquement, exécuter publiquement, concéder en sous-licence et distribuer l’Œuvre et ses Œuvres Dérivées en Forme Source ou Objet.
+
+
+3. Concession de licence de brevet.
+Sous réserve des termes et conditions de cette Licence, chaque Contributeur vous accorde une licence de brevet perpétuelle, mondiale, non exclusive, gratuite, libre de redevance et irrévocable (sauf indication contraire dans cette section) pour fabriquer, faire fabriquer, utiliser, offrir à la vente, vendre, importer et autrement transférer l’Œuvre. Cette licence ne s’applique qu’aux revendications de brevet pouvant être concédées par ce Contributeur et qui sont nécessairement enfreintes par sa Contribution seule ou par sa combinaison avec l’Œuvre à laquelle la Contribution a été soumise. Si vous engagez un litige en matière de brevet contre une entité (y compris une demande reconventionnelle) alléguant que l’Œuvre ou une Contribution incorporée dans l’Œuvre constitue une contrefaçon directe ou contributive, toute licence de brevet qui vous est accordée pour cette Œuvre prend fin à compter de la date de dépôt du litige.
+
+
+4. Redistribution.
+Vous pouvez reproduire et distribuer des copies de l’Œuvre ou de ses Œuvres Dérivées sur tout support, avec ou sans modifications, en Forme Source ou Objet, à condition de respecter les conditions suivantes :
+(a) Vous devez fournir à tous les destinataires une copie de cette Licence ;
+(b) Vous devez indiquer clairement toutes les modifications que vous avez apportées ;
+(c) Vous devez conserver dans la Forme Source de toute Œuvre Dérivée que vous distribuez l’ensemble des avis de droit d’auteur, brevets, marques et attributions provenant de la Forme Source de l’Œuvre, à l’exception de ceux qui ne concernent aucune partie de l’Œuvre Dérivée ;
+(d) Si l’Œuvre inclut un fichier « NOTICE », toute Œuvre Dérivée doit inclure une copie lisible des avis d’attribution contenus dans ce fichier, excepté ceux ne concernant pas l’Œuvre Dérivée, dans l’un des emplacements suivants : un fichier NOTICE distribué avec l’Œuvre Dérivée ; la Forme Source ou la documentation fournie avec l’Œuvre Dérivée ; ou un affichage généré par l’Œuvre Dérivée si ce type d’avis apparaît habituellement. Le contenu du fichier NOTICE est informatif et ne modifie pas la Licence. Vous pouvez ajouter vos propres avis d’attribution tant qu’ils ne modifient pas la Licence.
+(d) Vous pouvez partager ce fichier, mais il est interdit d’en faire payer l’accès.
+
+Vous pouvez ajouter votre propre avis de droit d’auteur à vos modifications et fournir des termes différents pour vos Œuvres Dérivées tant que leur distribution respecte la Licence.
+
+
+5. Soumission de Contributions.
+Sauf mention contraire explicite, toute Contribution soumise pour inclusion dans l’Œuvre est régie par cette Licence sans conditions supplémentaires.
+
+
+6. Marques.
+Cette Licence ne vous autorise pas à utiliser les noms commerciaux, marques, marques de service ou noms de produit du Concédant.
+
+
+7. Exclusion de garantie.
+Sauf obligation légale ou accord écrit contraire, le Concédant fournit l’Œuvre (et chaque Contributeur ses Contributions) « EN L’ÉTAT », SANS GARANTIE NI CONDITION, explicite ou implicite.
+
+
+8. Limitation de responsabilité.
+En aucun cas et selon aucun fondement juridique, un Contributeur ne pourra être tenu responsable de quelconques dommages résultant de l’utilisation de l’Œuvre ou de la Licence.
+
+
+9. Acceptation de garanties ou responsabilités supplémentaires.
+En redistribuant l’Œuvre, vous pouvez choisir d’offrir des garanties supplémentaires ou d’assumer davantage de responsabilités. Cela ne s’applique qu’à vous et non aux autres Contributeurs.
+
+10. Partage de ce fichier sur un iPad utilisant un identifiant Apple géré :
+(a) Ce fichier ne doit contenir aucun fichier externe susceptible d’aller à l’encontre du fournisseur MDM (Apple, Jamf School, Lightspeed MDM, Mobile Guardian, Impero EdLink, Trio Education Device Management, etc.).
+(b) Ce fichier ne doit pas être partagé avec des utilisateurs externes au MDM, tels que des iPads ou iPhones personnels ou d’autres iPads gérés par une autre organisation.
+(c) Lors du partage, vous devez préciser que vous n’êtes pas le créateur original du fichier. Modifier le nom du titulaire des droits ou la Licence est interdit.
+(d) Les fichiers ne doivent pas servir à contourner des restrictions imposées par la gestion des appareils. L’utilisation se fait à vos risques, et aucune responsabilité n’est assumée.
+
+⸻
+
+FIN DES TERMES ET CONDITIONS
+
+Copyright 2025
+
+Distribué sous la Licence Apache 2.0. Vous ne pouvez utiliser ce fichier qu’en respectant la Licence.
+Vous pouvez obtenir une copie de la Licence à :
+http://www.apache.org/licenses/LICENSE-2.0
+
+Sauf obligation légale ou accord écrit contraire, le logiciel distribué est fourni « EN L’ÉTAT », SANS GARANTIE NI CONDITION.
+Consultez la Licence pour connaître les permissions spécifiques et limites.
