@@ -3,3 +3,4 @@ toutes versions
 toutes versions
 require IOS 18 ou moins
 toutes versions
+ios 17 et plus
